@@ -14,3 +14,4 @@ published: true
 date: '2019-04-29'
 image: img/DBF_2019_logo
 ---
+![DBF_2019_logo.jpg]({{site.baseurl}}/img/DBF_2019_logo)
