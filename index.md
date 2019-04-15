@@ -12,7 +12,7 @@ bigimg:
 
 # We're back! 
 
-Our first event last year was such an incredible success that we couldn't resist to do it again! 
+**Our first event last year was such an incredible success that we couldn't resist to do it again!**
 
 Our mission remains the same: raising money for our dear friend and colleague Dr Sophie Williams. But this time we will share a portion with Treborth Botanic Garden as a thank you for their deep support, without which ther would'nt be a Festival. It is widely that Sophie has felt and still feels so passionately about Treborth Botanic Garden.
 
@@ -24,7 +24,7 @@ All profits from the food and bars and ticket sales will be going directly to th
 
 We have a great lineup of music and entertainment to announce over the coming weeks, so please keep checking back to the page and help spread the event amongst your friends.
 
-WHAT’S ON
+### WHAT’S ON
 
 Live bands and DJs across two music stages • Syrcas Cimera • Workhops • Wellbeing Area • Wild Elements Forest School • Tea & Cake Stalls • Home Cooked Vegetarian Food • Fully Licensed Bar • Much more to be announced
 
@@ -39,10 +39,9 @@ Family Ticket (2 adults, 2 children aged 12 -17)
 
 No Concessions
 
-
 As access to the Garden is limited we are asking people to come by public transport if possible, but we will also be operating a free park and ride scheme from Bangor University Normal Site, as well as pickup points in Bangor. Access by car will be limited to Blue Badge holders only, please let us know in advance and we will be able to accommodate you on site.
 
-To comply with the law and for general event safety:
+### To comply with the law and for general event safety:
 
 No alcohol to be brought onto site • No glass
 No unaccompanied children under 18 • No dogs
