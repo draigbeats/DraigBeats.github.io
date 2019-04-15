@@ -1,4 +1,16 @@
 
+---
+layout: page
+title: Draig Beats
+subtitle: A day long, family-friendly, music and community festival held annually at the beautiful Treborth Botanic Garden, North Wales.
+use-site-title: true
+bigimg:
+ - "/img/DBF2018_drymbago1.jpg" : "Drymbago"
+ - "/img/DBF2018_header1.jpg" : ""
+ - "/img/DBF2018_header2.jpg" : ""
+ - "/img/DBF2018_header3.jpg" : ""
+---
+
 # We're back! 
 
 Our first event last year was such an incredible success that we couldn't resist to do it again! 
