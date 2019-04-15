@@ -19,6 +19,8 @@ title: Draig Beats 2019
 # Short description of your site
 description: A fundraiser festival at Treborth Botanic Garden to brin Dr Sophie home!
 
+# Blogs not on start page and store udner different URL
+paginate_path: "/blog/page:num/"
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
@@ -36,7 +38,7 @@ avatar: "/img/DBF_2019_logo.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: "/img/DBF_2019_logo.jpg"
 
 # --- Background colour/image options --- #
 
