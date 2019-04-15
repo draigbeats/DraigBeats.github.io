@@ -20,7 +20,7 @@ Draig Beats will be held on Saturday the 8th of June 2019 from 10am until 8pm in
 
 We are trying to keep ticket prices to a minimum but still aim to raise as much money as possible to help support Sophie who still waits for approval of the NHS to live at home in North Wales following 4 years of intensive care, rehabilitation and placements in multiple care homes after contracting Japanese Encephalitis.
 
-All profits from the food and bars and ticket sales will be going directly to the Sophie Williams Trust with a small proportion to the Friends of Treborth. Sso please join us for a great day out and help us raise as much money as possible!
+All profits from the food and bars and ticket sales will be going directly to the *Sophie Williams Trust* with a small proportion to the *Friends of Treborth Botanic Garden*. Sso please join us for a great day out and help us raise as much money as possible!
 
 We have a great lineup of music and entertainment to announce over the coming weeks, so please keep checking back to the page and help spread the event amongst your friends.
 
