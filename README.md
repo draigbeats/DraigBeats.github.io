@@ -10,7 +10,7 @@ bigimg:
  - "/img/DBF2018_header1.jpg" : ""
 ---
 
-# We're back! 
+# We're back! Are We?
 
 Our first event last year was such an incredible success that we couldn't resist to do it again! 
 
@@ -24,7 +24,9 @@ All profits from the food and bars and ticket sales will be going directly to th
 
 We have a great lineup of music and entertainment to announce over the coming weeks, so please keep checking back to the page and help spread the event amongst your friends.
 
-WHAT’S ON
+We have a great lineup of music and entertainment to announce over the coming weeks, so please keep checking back to the page and help spread the event amongst your friends.
+
+##  WHAT’S ON
 
 Live bands and DJs across two music stages • Syrcas Cimera • Workhops • Wellbeing Area • Wild Elements Forest School • Tea & Cake Stalls • Home Cooked Vegetarian Food • Fully Licensed Bar • Much more to be announced
 
