@@ -5,9 +5,9 @@ subtitle: A day long, family-friendly, music and community festival held annuall
 use-site-title: true
 bigimg:
  - "/img/DBF2018_drymbago1.jpg" : "Drymbago"
- - "/img/DBF2018_header1.jpg" : ""
- - "/img/DBF2018_header2.jpg" : ""
  - "/img/DBF2018_header3.jpg" : ""
+ - "/img/DBF2018_header2.jpg" : ""
+ - "/img/DBF2018_header1.jpg" : ""
 ---
 
 # We're back! 
