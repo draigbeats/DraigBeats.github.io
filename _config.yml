@@ -26,13 +26,13 @@ paginate_path: "/blog/page:num/"
 # List of links in the navigation bar
 navbar-links:
   Ticket: "https://draigbeats2019.brownpapertickets.com/"
-  Line Up: ""
-  2018: 
-    - Artist: ""
-    - Workshop: ""
+#  Line Up: ""
+#  2018: 
+#    - Artist: ""
+#    - Workshop: ""
   Get involved: "join"
-  Sophie Williams Trust: ""
-  About: "about"
+#  Sophie Williams Trust: ""
+#  About: "about"
 
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
