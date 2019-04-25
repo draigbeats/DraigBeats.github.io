@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Draig Beats
-subtitle: A day long, family-friendly, music and community festival held annually at the beautiful Treborth Botanic Garden, North Wales.
+title: Thinking of Volunteering?
+subtitle: 
 use-site-title: true
 bigimg:
  - "/img/DBF2018_drymbago1.jpg" : "Drymbago"
@@ -10,8 +10,9 @@ bigimg:
  - "/img/DBF2018_header3.jpg" : ""
 ---
 
-### Stallholder
-[Stallholder Requirement Form](https://airtable.com/shrRWMUwSTI0sFFZk)
 
-### Workshop
-[Workshop Requirement Form](https://airtable.com/shrXltNdYyiG5fPb1)
+# Great!
+
+**Without volunteers this festival wouldn't be possible..**
+
+In the weeks before the festival we will announce how you can help us make this festival an unforgettable day.  Watch this space, more in May.
