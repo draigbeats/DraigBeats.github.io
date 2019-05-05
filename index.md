@@ -27,7 +27,7 @@ We have a great lineup of music and entertainment to announce over the coming we
 
 Live bands and DJs across three music stages • Syrcas Cimera • Workshops • Wellbeing Area • Wild Elements Forest School • Tea & Cake Stalls • Home Cooked Vegetarian Food • Fully Licensed Bar • Much more to be announced
 
-### TICKET PRICES
+### [TICKET PRICES](https://draigbeats2019.brownpapertickets.com)
 
 
 |           | **Adult**        | **Child 12-17** | **Family Ticket**|
@@ -41,6 +41,9 @@ Live bands and DJs across three music stages • Syrcas Cimera • Workshops •
 Family Ticket: 2 adults & 2 children aged 12 -17
 
 No Concessions
+
+[Get tickets!](https://draigbeats2019.brownpapertickets.com)
+
 
 As access to the Garden is limited we're asking people to come by public transport if possible, but we will also be operating a free park and ride scheme from Bangor University Normal Site, as well as pickup points in Bangor. Access by car will be limited to Blue Badge holders only, please let us know in advance and we will be able to accommodate you on site.
 
