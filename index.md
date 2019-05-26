@@ -4,10 +4,10 @@ title: We're Back!
 subtitle: 
 use-site-title: true
 bigimg:
- - "/img/DBF2018_header2.jpg" : ""
- - "/img/DBF2018_drymbago1.jpg" : "Drymbago"
- - "/img/DBF2018_header1.jpg" : ""
- - "/img/DBF2018_header3.jpg" : ""
+ - "/img/DBF2018_header2sm.jpg" : ""
+ - "/img/DBF2018_drymbago1sm.jpg" : "Drymbago"
+ - "/img/DBF2018_header1sm.jpg" : ""
+ - "/img/DBF2018_header3sm.jpg" : ""
 ---
 
 
