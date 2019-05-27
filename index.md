@@ -27,6 +27,9 @@ We have a great lineup of music and entertainment to announce over the coming we
 
 Live bands and DJs across three music stages • Syrcas Cimera • Workshops • Wellbeing Area • Wild Elements Forest School • Tea & Cake Stalls • Home Cooked Vegetarian Food • Fully Licensed Bar • Much more to be announced
 
+![DraigBeatsFlyer](/img/DRAIG_BEATS_A6_19.jpg)
+
+
 ### [TICKET PRICES](https://draigbeats2019.brownpapertickets.com)
 
 
