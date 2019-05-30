@@ -15,7 +15,8 @@ bigimg:
 
 **Without volunteers this festival wouldn't be possible..**
 
-In the weeks before the festival we will announce how you can help us make this festival an unforgettable day.  Watch this space, more in May.
+Free ticket anyone? We need volunteers on the day, and to set things up too.
+Sign up here: [https://volunteersignup.org/7XJ7P](https://volunteersignup.org/7XJ7P)
 
 **Want updates?**
 
