@@ -75,9 +75,6 @@ Lawn / Den Games
 ![DraigBeatsFlyer](/img/DRAIG_BEATS_A6_19.jpg)
 
 
-![DraigBeatsFlyer](/img/DRAIG_BEATS_A6_19.jpg)
-
-
 ### [TICKET PRICES](https://draigbeats2019.brownpapertickets.com)
 
 
