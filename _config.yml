@@ -25,20 +25,12 @@ paginate_path: "/blog/page:num/"
 
 # List of links in the navigation bar
 navbar-links:
-#Music
-  Music:
-    - Live: "live"
-    - Soundsystem: "soundsystem"   
-
+#Artists
+  Artists: "artists"
+#Stallholders
+  Stallholders: "stallholders"
 #Activities
-  Activities: 
-    - Workshops: "workshops"
-    - Wild Elements: "wildelements"
-    - In the Field: "inthefield"  
-
-# Wellbeing
-  Wellbeing: "wellbeing"
-
+  Activities: "activities"   
 # Tickets
   Tickets: "https://draigbeats2019.brownpapertickets.com/"
   
