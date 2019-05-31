@@ -47,7 +47,6 @@ No Concessions
 
 [Get tickets!](https://draigbeats2019.brownpapertickets.com)
 
-
 As access to the Garden is limited we're asking people to come by public transport if possible, but we will also be operating a free park and ride scheme from Bangor University Normal Site, as well as pickup points in Bangor. Access by car will be limited to Blue Badge holders only, please let us know in advance and we will be able to accommodate you on site.
 
 **To comply with the law and for general event safety:**
