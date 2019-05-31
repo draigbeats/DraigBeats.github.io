@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Line Up is out!
+title: The Line Up!!!
 subtitle: 
 use-site-title: true
 bigimg:
@@ -9,8 +9,6 @@ bigimg:
  - "/img/DBF2018_header1sm.jpg" : ""
  - "/img/DBF2018_header3sm.jpg" : ""
 ---
-
-### LINE UP
 
 
 ![Line Up](/img/LineUp.jpg)
@@ -73,9 +71,6 @@ Upccylde and Nature based Shop
 Mud Kitchen  
 Lawn / Den Games  
 
-### WHAT’S ON  
-
-Live bands and DJs across three music stages • Syrcas Cimera • Workshops • Wellbeing Area • Wild Elements Forest School • Tea & Cake Stalls • Home Cooked Vegetarian Food • Fully Licensed Bar • Much more to be announced
 
 ![DraigBeatsFlyer](/img/DRAIG_BEATS_A6_19.jpg)
 
@@ -98,7 +93,9 @@ No Concessions
 [Get tickets!](https://draigbeats2019.brownpapertickets.com)
 
 
-### Our first event last year was such an incredible success that we couldn't resist to do it again!
+## We're Back!
+
+### Our first event last year was such an incredible success that we couldn't resist doing it again!
 
 **Our mission remains the same: raising money for our dear friend and colleague Dr Sophie Williams. But this time we will share a portion with Treborth Botanic Garden as a thank you for their deep support, without which there wouldn’t be a festival. It is widely known that Sophie has felt and still feels so passionately about Treborth Botanic Garden.**
 
@@ -110,10 +107,10 @@ All profits from the food and bars and ticket sales will be going directly to th
 
 We have a great lineup of music and entertainment to announce over the coming weeks, keep checking back to the page and help spread the event amongst your friends.
  
-### Some Notes
+### The small print
 
-As access to the Garden is limited we're asking people to come by public transport if possible, but we will also be operating a free park and ride scheme from Bangor University Normal Site, as well as pickup points in Bangor. Access by car will be limited to Blue Badge holders only, please let us know in advance and we will be able to accommodate you on site.
+As access to the Garden is limited we're asking people to come by public transport if possible, but we will also be operating a free park and ride scheme from Bangor Football Club and bus pick up from Bangor Uinversity Brambell Building (NO PARKING!) in walking distance from the train station. Access by car will be limited to Blue Badge holders only, please let us know in advance and we will be able to accommodate you on site.
 
 **To comply with the law and for general event safety:**
 
-No alcohol to be brought onto site • No glas • No unaccompanied children under 18 • No dogs
+No alcohol to be brought onto site • No glass • No unaccompanied children under 18 • No dogs
