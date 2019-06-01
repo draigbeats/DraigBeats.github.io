@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Live Music
+title: Artists
 subtitle: 
 use-site-title: true
 bigimg:
