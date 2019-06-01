@@ -8,7 +8,6 @@ bigimg:
  - "/img/banner_activities_02.jpg" : ""
  - "/img/banner_activities_03.jpg" : ""
  - "/img/banner_activities_04.jpg" : ""
- - "/img/banner_activities_05.jpg" : ""
  - "/img/banner_activities_06.jpg" : ""
  - "/img/banner_activities_07.jpg" : ""
 ---
