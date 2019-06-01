@@ -4,13 +4,13 @@ title: Activities
 subtitle: 
 use-site-title: true
 bigimg:
- - "/img/banner_activities_01" : ""
- - "/img/banner_activities_02" : ""
- - "/img/banner_activities_03" : ""
- - "/img/banner_activities_04" : ""
- - "/img/banner_activities_05" : ""
- - "/img/banner_activities_06" : ""
- - "/img/banner_activities_07" : ""
+ - "/img/banner_activities_01.jpg" : ""
+ - "/img/banner_activities_02.jpg" : ""
+ - "/img/banner_activities_03.jpg" : ""
+ - "/img/banner_activities_04.jpg" : ""
+ - "/img/banner_activities_05.jpg" : ""
+ - "/img/banner_activities_06.jpg" : ""
+ - "/img/banner_activities_07.jpg" : ""
 ---
 
 # Workshops
