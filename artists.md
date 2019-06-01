@@ -4,10 +4,14 @@ title: Live Music
 subtitle: 
 use-site-title: true
 bigimg:
- - "/img/DBF2018_drymbago1.jpg" : "Drymbago"
- - "/img/DBF2018_header1.jpg" : ""
- - "/img/DBF2018_header2.jpg" : ""
- - "/img/DBF2018_header3.jpg" : ""
+ - "/img/banner_artist_01.jpg : ""
+ - "/img/banner_artist_02.jpg : ""
+ - "/img/banner_artist_03.jpg : ""
+ - "/img/banner_artist_04.jpg : ""
+ - "/img/banner_artist_05.jpg : ""
+ - "/img/banner_artist_06.jpg : ""
+ - "/img/banner_artist_07.jpg : ""
+ - "/img/banner_artist_08.jpg : ""
 ---
 
 
