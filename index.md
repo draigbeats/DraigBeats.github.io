@@ -13,7 +13,7 @@ bigimg:
 ## Get Your Free Ticket - Volunteer!!!
 Become a part of the festival and volunteer!  
 We still have some nice and easy going shifts (3 hours) in exchange for a ticket.
-Interested? Take a look at: [Volunteering sign up](https://volunteersignup.org/7XJ7P").   
+Interested? Take a look at: [Volunteer sign up](https://volunteersignup.org/7XJ7P).   
 
 ## The Line Up
 
