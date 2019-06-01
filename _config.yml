@@ -25,12 +25,20 @@ paginate_path: "/blog/page:num/"
 
 # List of links in the navigation bar
 navbar-links:
-  Ticket: "https://draigbeats2019.brownpapertickets.com/"
+#Artists
+  Artists: "artists"
+#Stallholders
+#  Stallholders: "stallholders"
+#Activities
+  Activities: "activities"   
+# Tickets
+  Tickets: "https://draigbeats2019.brownpapertickets.com/"
+  
 #  Line Up: ""
 #  2018: 
 #    - Artist: ""
 #    - Workshop: ""
-  Get involved: "join"
+  Volunteering: "https://volunteersignup.org/7XJ7P"
 #  Sophie Williams Trust: ""
 #  About: "about"
 
@@ -46,7 +54,7 @@ avatar: "/img/DBF_2019_logo.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/DBF2019_Banner1.jpg"
+title-img: "/img/DBF2019_Banner1sm.jpg"
 
 # --- Background colour/image options --- #
 
