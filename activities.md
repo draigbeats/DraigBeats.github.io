@@ -4,10 +4,13 @@ title: Activities
 subtitle: 
 use-site-title: true
 bigimg:
- - "/img/DBF2018_drymbago1.jpg" : "Drymbago"
- - "/img/DBF2018_header1.jpg" : ""
- - "/img/DBF2018_header2.jpg" : ""
- - "/img/DBF2018_header3.jpg" : ""
+ - "/img/banner_activities_01" : ""
+ - "/img/banner_activities_02" : ""
+ - "/img/banner_activities_03" : ""
+ - "/img/banner_activities_04" : ""
+ - "/img/banner_activities_05" : ""
+ - "/img/banner_activities_06" : ""
+ - "/img/banner_activities_07" : ""
 ---
 
 # Workshops
