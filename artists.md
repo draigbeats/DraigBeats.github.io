@@ -227,7 +227,7 @@ Martin & Henry
 <td>
 Featuring Martin Daws
 </td>
-<td>  <img src="/img/DBF_2019_logo.png" alt="">  </td>
+<td>  </td>
 </tr>
 </tbody>
 </table>
