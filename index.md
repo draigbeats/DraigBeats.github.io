@@ -19,8 +19,7 @@ Interested? Take a look at: [Volunteer sign up](https://volunteersignup.org/7XJ7
 
 ![Line Up](/img/LineUp.jpg)
 
-**Y TOP MAWR - BIG TOP**
-
+**Y TOP MAWR - BIG TOP**  
 12:45 - 13:00 [Ram Ram](https://www.facebook.com/RAM-RAM-aka-Reggae-And-Mental-Random-Access-Memory-355050051738196/)   
 14:00 - 14:45 [Cowbois Celtaidd](https://www.facebook.com/cowbois.celtaidd)   
 15:45 - 16:45 [Banda Bacana](https://bandabacana1.bandcamp.com)  
@@ -34,7 +33,7 @@ Interested? Take a look at: [Volunteer sign up](https://volunteersignup.org/7XJ7
 16:45 - 17:30 [DJ Flyffilyfbybl](https://www.facebook.com/DJ-fflyffilyfbybl-342288702450825/)  
 18:30 - 19:30 [DJ Badly](https://www.facebook.com/RAM-RAM-aka-Reggae-And-Mental-Random-Access-Memory-355050051738196/) & [Ska Beat Soul](https://www.facebook.com/skabeatsoul/)  
 
-**ACWSTIG _ ACOUSTIC**  
+**ACWSTIG - ACOUSTIC**  
 11:00 - 11:45 [Threnody Choir](https://www.facebook.com/Threnodychoir)    
 12:00 - 12:30 Jonny Steele  
 12:45 - 13:30 [Mamatung](https://www.facebook.com/mamatungmusic)  
@@ -44,7 +43,7 @@ Interested? Take a look at: [Volunteer sign up](https://volunteersignup.org/7XJ7
 16:45 - 17:30 [Hannah Willwood](https://www.facebook.com/HannahWillwoodMusic/)  
 18:30 - 19:30 [Hedge Gods](http://hedgegods.com)  
 
-**LLES _ WELLBEING**  
+**LLES - WELLBEING**  
 10:30 - 11:15 Yoga  
 11:45 - 12:30 432Hz Crystal Bowl Soundbath  
 12:45 - 13:30 Self Connection Qigong  
@@ -53,13 +52,13 @@ Interested? Take a look at: [Volunteer sign up](https://volunteersignup.org/7XJ7
 16:00 - 16:30 Family Yoga  
 16:45 - 17:30 Laughter Medicine  
 
-**CLOCH Y LOTUS BELL**  
+**CLOCH Y - LOTUS BELL**  
 11:00 - 12:30 Reflexotlogy  
 12:45 - 13:45 Can O’r Galon ... Sing from the Heart  
 14:15 - 15:45 Kansa Wand Facial and Head Massage  
 16:00 - 17:30 Dreaming Drwm Treatment  
 
-**GWEITHDAI _ WORKSHOP**  
+**GWEITHDAI - WORKSHOP**  
 12:00 - 12:45 Creative Family Dance  
 13:00 - 13:45 African Link Drumming  
 14:00 - 14:45 Singing from the Soul  
@@ -67,7 +66,7 @@ Interested? Take a look at: [Volunteer sign up](https://volunteersignup.org/7XJ7
 16:00 - 16:45 Introduction to Massage  
 18:30 - 19:30 Salsa  
 
-**YSGOL GOEDWIG WILD ELEMENTS FOREST SCHOOL**  
+**YSGOL GOEDWIG - WILD ELEMENTS FOREST SCHOOL**  
 Archery  
 Cress Clay  
 Plant a Seed  
