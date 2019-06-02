@@ -644,6 +644,7 @@ table tr {
   background-color: #ffffff;
   margin: 0;
   padding: 0;
+  margin-top: 0.5cm;
 }
 table tr:nth-child(2n) {
   background-color: #ffffff;
@@ -663,7 +664,6 @@ table tr td {
 }
 table tr th :first-child,
 table tr td :first-child {
-  margin-top: 0.5cm;
 }
 table tr th :last-child,
 table tr td :last-child {
