@@ -8,10 +8,9 @@ bigimg:
  - "/img/banner_artist_02.jpg" : ""
  - "/img/banner_artist_03.jpg" : ""
  - "/img/banner_artist_04.jpg" : ""
- - "/img/banner_artist_05.jpg" : ""
  - "/img/banner_artist_06.jpg" : ""
  - "/img/banner_artist_07.jpg" : ""
- - "/img/banner_artist_08.jpg" : ""
+ - "/img/banner_artist_05.jpg" : ""
 ---
 
 ## The Artists
@@ -63,7 +62,7 @@ Cowbois Celtaidd
 </tr>
 <tr valign="top">
 <td>
-Think of the Pouges meet the levellers at Woodstock and bond over a shared love for Bob Marley.  
+Think of the Pogues meet the levellers at Woodstock and bond over a shared love for Bob Marley.  
 </td>
 <td>  <img src="/img/artist_celticCowboys.jpeg" alt="">  </td>
 </tr>
@@ -243,7 +242,7 @@ Ram Ram
 </tr>
 <tr valign="top">
 <td>
-Up beat dance friendly fusion of reggae,ska,funk,original tunes wiv the odd cover thrown in.  
+Up beat dance friendly fusion of reggae, ska, funk, original tunes with the odd cover thrown in.  
 </td>
 <td>  <img src="/img/artist_ramram.jpg" alt="">  </td>
 </tr>
