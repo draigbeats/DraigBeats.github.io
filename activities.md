@@ -381,7 +381,7 @@ Using Tibetan bowls for meditation and healing.
 </tr>
 <tr valign="top">
  <td>
- Stuart Bond has over 25 years experience in playing the didgeridoo, and has worked and played with some of the worlds best traditional and contemporary didgeridoo masters. Suitable for any age and any level of experience from beginner to the most advanced of players these two, 2 hr long lessons will be tailored for your needs. Materials for private practice including lesson recordings, will also be available as a document to take home
+  Rhythmic breath yidaki (didgeridoo) workshop. Suitable for all levels from beginner to advanced. Instruments will be available but please do bring your own if you can.
  </td>
  <td>  <img src="/img/activities_didgeridoo.jpg" alt="">    </td>
 </tr>
@@ -426,7 +426,7 @@ Using Tibetan bowls for meditation and healing.
 <tr valign="top">
  <td>
   <i>
-  Douglas Morris
+  Jennie Jones and Douglas Morris
   </i>
  </td>
  <td>  </td>
@@ -526,7 +526,7 @@ Using Tibetan bowls for meditation and healing.
 <tr valign="top">
  <td width="70%">
   <h3>
-  Stilt Characters
+  Syrcas Cimera
   </h3>
  </td>
 </tr>
