@@ -426,7 +426,7 @@ Using Tibetan bowls for meditation and healing.
 <tr valign="top">
  <td>
   <i>
-  Douglas Morris
+  Jennie Jones and Douglas Morris
   </i>
  </td>
  <td>  </td>
