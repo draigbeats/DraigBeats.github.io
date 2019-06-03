@@ -224,7 +224,10 @@ Martin & Henry
 </tr>
 <tr valign="top">
 <td>
-Featuring Martin Daws
+Martin Daws is an acclaimed Spoken Word Poet with 20 years professional experience writing, performing and recording while maintaining a leading practice as a freelance creative educator.
+Numerous festivals appearances nationally and Internationally including Glastonbury, Edinburgh Fringe, Bet Lahem Live (Palestine), Penn Writers (NYC), Poetry Connection (Helsinki), First Fortnight (Rep Ireland) and Focus Wales. Featured poet in 9Bach’s acclaimed “Llechi”.
+Author of two Spoken Word Poetry book/albums Skintight the Sidewalk (2008) and Geiriau Gogs(2016).
+Awarded the role of Young People’s Laureate for Wales 2013-16. Delivering nationwide poetry projects and events, advocating for the importance of young people’s voices being heard.
 </td>
 <td>  </td>
 </tr>
