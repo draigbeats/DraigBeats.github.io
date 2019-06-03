@@ -50,11 +50,12 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/DBF_2019_logo.png"
+#avatar: "/img/DBF_2019_logo.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/DBF2019_Banner1sm.jpg"
+title-img: "/img/DBF_2019_logo.png"
+# old tile-img:"/img/DBF2019_Banner1sm.jpg"
 
 # --- Background colour/image options --- #
 
