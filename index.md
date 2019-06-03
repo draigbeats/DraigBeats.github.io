@@ -109,6 +109,9 @@ All profits from the food and bars and ticket sales will be going directly to th
 
 We have a great lineup of music and entertainment to announce over the coming weeks, keep checking back to the page and help spread the event amongst your friends.
  
+## FAQs
+For more information on access and a sitemap goto our [information page](/infos)
+
 ## The small print
 
 As access to the Garden is limited we're asking people to come by public transport if possible, but we will also be operating a free park and ride scheme from Bangor Football Club and bus pick up from Bangor Uinversity Brambell Building (NO PARKING!) in walking distance from the train station. Access by car will be limited to Blue Badge holders only, please let us know in advance and we will be able to accommodate you on site.
