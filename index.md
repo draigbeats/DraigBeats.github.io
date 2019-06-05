@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Volunteers WanteWantedtitle: 
+title: Volunteers Wanted!
+subtitle: 
 use-site-title: true
 bigimg:
  - "/img/DBF2018_header2sm.jpg" : ""
