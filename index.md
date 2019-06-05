@@ -10,9 +10,9 @@ bigimg:
  - "/img/DBF2018_header3sm.jpg" : ""
 ---
 
-## Get Your Free Ticket - Volunteer!!!
+## Last Chance to Get Your Free Ticket!
 Become a part of the festival and volunteer!  
-We still have some nice and easy going shifts (3 hours) in exchange for a ticket.
+There are only eight nice and easy going shifts (3 hours) in exchange for a ticket left.
 Interested? Take a look at: [Volunteer sign up](https://volunteersignup.org/7XJ7P).   
 
 ## The Line Up
