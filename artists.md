@@ -239,7 +239,7 @@ Awarded the role of Young People’s Laureate for Wales 2013-16. Delivering nati
 <tr valign="top">
 <td width="70%">
 <h3>
-Ram Ram
+RAM RAM
 </h3>
 </td>
 </tr>
