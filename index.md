@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Volunteers Wanted!
+title: Welcome to Draig Beats!
 subtitle: 
 use-site-title: true
 bigimg:
@@ -10,10 +10,6 @@ bigimg:
  - "/img/DBF2018_header3sm.jpg" : ""
 ---
 
-## Last Chance to Get Your Free Ticket!
-Become a part of the festival and volunteer!  
-There are only three nice and easy going shifts (3 hours) in exchange for a ticket left.
-Interested? Take a look at: [Volunteer sign up](https://volunteersignup.org/7XJ7P).   
 
 ## The Line Up
 
