@@ -17,7 +17,7 @@ bigimg:
 
 ## Time to Breath!
 
-### With difficult years behind us, we now like to bring our North Wales communities back together again!
+### With difficult years behind us, let us come together again!
 
 **Our mission remains the same: raising money for our dear friend and colleague Dr Sophie Williams. Like in 2019 we will share a portion with Treborth Botanic Garden as a thank you for their deep support, without which there wouldn’t be a festival. It is widely known that Sophie has felt and still feels so passionately about Treborth Botanic Garden.**
 
