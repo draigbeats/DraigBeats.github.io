@@ -11,69 +11,27 @@ bigimg:
 ---
 
 
-## The Line Up
 
-![Line Up](/img/LineUp.jpg)
-
-**Y TOP MAWR - BIG TOP**  
-12:45 - 13:00 [Ram Ram](https://www.facebook.com/RAM-RAM-aka-Reggae-And-Mental-Random-Access-Memory-355050051738196/)   
-14:00 - 14:45 [Cowbois Celtaidd](https://www.facebook.com/cowbois.celtaidd)   
-15:45 - 16:45 [Banda Bacana](https://bandabacana1.bandcamp.com)  
-17:30 - 18:30 [Drymbago](https://www.facebook.com/Drymbago-280604965341497)  
-19:30 - 20:30 [Baka Beyond](https://bakabeyond.net)  
-
-**TIPI**  
-12:00 - 13:00 [*Freedom Sound System & Friends*](https://www.facebook.com/freedomsoundsystem)  
-13:00 - 14:00 Racubah  
-14:45 - 15:45 DJ FoWax  
-16:45 - 17:30 [DJ Flyffilyfbybl](https://www.facebook.com/DJ-fflyffilyfbybl-342288702450825/)  
-18:30 - 19:30 [DJ Badly](https://www.facebook.com/RAM-RAM-aka-Reggae-And-Mental-Random-Access-Memory-355050051738196/) & [Ska Beat Soul](https://www.facebook.com/skabeatsoul/)  
-
-**ACWSTIG - ACOUSTIC**  
-11:00 - 11:45 [Threnody Choir](https://www.facebook.com/Threnodychoir)    
-12:00 - 12:30 Jonny Steele  
-12:45 - 13:30 [Mamatung](https://www.facebook.com/mamatungmusic)  
-13:45 - 14:30 Djangogs  
-14:45 - 15:30 [Eve Goodman](https://www.facebook.com/evegoodmanmusic/)  
-15:45 - 16:30 Martin & Henry  
-16:45 - 17:30 [Hannah Willwood](https://www.facebook.com/HannahWillwoodMusic/)  
-18:30 - 19:30 [Hedge Gods](http://hedgegods.com)  
-
-**LLES - WELLBEING**  
-10:30 - 11:15 Yoga  
-11:45 - 12:30 432Hz Crystal Bowl Soundbath  
-12:45 - 13:30 Self Connection Qigong  
-13:45 - 14:45 Celtic Drum and Tibetan Bowls  
-15:00 - 15:45 Yoga  
-16:00 - 16:30 Family Yoga  
-16:45 - 17:30 Laughter Medicine  
-
-**CLOCH Y - LOTUS BELL**  
-11:00 - 12:30 Reflexotlogy  
-12:45 - 13:45 Can O’r Galon ... Sing from the Heart  
-14:15 - 15:45 Kansa Wand Facial and Head Massage  
-16:00 - 17:30 Dreaming Drwm Treatment  
-
-**GWEITHDAI - WORKSHOP**  
-12:00 - 12:45 Creative Family Dance  
-13:00 - 13:45 African Link Drumming  
-14:00 - 14:45 Singing from the Soul  
-15:00 - 15:45 Didgeridoo  
-16:00 - 16:45 Introduction to Massage  
-18:30 - 19:30 Salsa  
-
-**YSGOL GOEDWIG - WILD ELEMENTS FOREST SCHOOL**  
-Archery  
-Cress Clay  
-Plant a Seed  
-Woodland Craft  
-Smore (Biscuits & Marshmallows)  
-Upccylde and Nature based Shop  
-Mud Kitchen  
-Lawn / Den Games  
+[Get tickets!](https://draigbeats2022.brownpapertickets.com)
 
 
-### [TICKET PRICES](https://draigbeats2019.brownpapertickets.com)
+## Time to Breath!
+
+### With difficult years behind us, we now like to bring our North Wales communities back together again!
+
+**Our mission remains the same: raising money for our dear friend and colleague Dr Sophie Williams. Like in 2019 we will share a portion with Treborth Botanic Garden as a thank you for their deep support, without which there wouldn’t be a festival. It is widely known that Sophie has felt and still feels so passionately about Treborth Botanic Garden.**
+
+So after a two year break, Draig Beats returns on **Saturday the 11th of June 2022** from **10am until 9pm** to Treborth Botanic Garden! It is a family friendly, fund raising event, and will contribute to building bridges between local communities working towards a positive post COP26 world. It will offer plenty of live music, talks, workshops, food & drink plus, will showcase local initiatives and will have lots of activities to keep the kids busy!
+
+After this long break we are also regrouping with a new team and have decided to focus a little bit more on wellbeing aspects and a little bit less on music.
+
+We are unpaid volunteers and are trying to keep ticket prices to a minimum but still aim to raise as much money as possible to help support our inspiring friend and colleague Dr Sophie Williams, a former lecturer in plant conservation, who unfortunately lives in a care home following years of intensive care after contracting Japanese Encephalitis. We are still trying to get her home but the pandemic has made our efforts much more challenging..., no reason to give though!
+
+Whilst building bridges we will raise funds to help Sophie cover the legal cost for an expensive *Judicial Review*, so that BCUHB (North Wales NHS) can look favourably at Sophie's case again as they have stopped communicating with Sophie's solicitor two years ago. As a consequence she sadly faces a life in a care home permanently, 70 miles away from her friends, her community, and her colleagues at Bangor University.
+
+All profits raised will support this cause, and some will also be shared with the volunteering group Friends of Treborth Botanic Garden, so please join us for a great day out and help us raise as much money as possible!
+
+### [TICKET PRICES](https://draigbeats2022.brownpapertickets.com)
 
 
 |           | **Adult**        | **Child 12-17** | **Family Ticket**|
@@ -81,29 +39,9 @@ Lawn / Den Games
 |Advance    | £20              | £10             | £50              |
 |On the day | £25              | £15             | not available    |
 
-
-**Children under 12 FREE**
-
 Family Ticket: 2 adults & 2 children aged 12 -17
-
 No Concessions
-
-[Get tickets!](https://draigbeats2019.brownpapertickets.com)
-
-
-## We're Back!
-
-### Our first event last year was such an incredible success that we couldn't resist doing it again!
-
-**Our mission remains the same: raising money for our dear friend and colleague Dr Sophie Williams. But this time we will share a portion with Treborth Botanic Garden as a thank you for their deep support, without which there wouldn’t be a festival. It is widely known that Sophie has felt and still feels so passionately about Treborth Botanic Garden.**
-
-Draig Beats will be held on **Saturday the 8th of June 2019** from **10am until 9pm** in Treborth Botanic Garden. It’s a family friendly, fundraising event with plenty of live music, workshops, vegan food & drink and lots of activities to keep the kids busy!
-
-We are trying to keep ticket prices to a minimum but still aim to raise as much money as possible to help support Sophie to live at home in North Wales, following 4 years of intensive care, rehabilitation and placements in multiple care homes.
-
-All profits from the food and bars and ticket sales will be going directly to the *Sophie Williams Trust* with a small proportion to the *Friends of Treborth Botanic Garden*. Join us for a great day out and help us raise as much money as possible!
-
-We have a great lineup of music and entertainment to announce over the coming weeks, keep checking back to the page and help spread the event amongst your friends.
+**Children under 12 FREE**
  
 ## FAQs
 For more information on access and a sitemap goto our [information page](/infos)
