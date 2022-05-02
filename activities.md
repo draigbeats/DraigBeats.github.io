@@ -13,9 +13,9 @@ bigimg:
 ---
 
 
-# Wellbeing (Workshops)
+<!-- # Wellbeing (Workshops) -->
 
-
+<!-- 
 <table>
 <tbody>
 <tr valign="top">
@@ -546,4 +546,4 @@ Using Tibetan bowls for meditation and healing.
 </tr>
 </tbody>
 </table>
-
+ -->
