@@ -4,12 +4,25 @@ title: Draig Beats 2022
 subtitle: 
 use-site-title: true
 bigimg:
- - "/img/DBF2018_header2sm.jpg" : ""
- - "/img/DBF2018_drymbago1sm.jpg" : "Drymbago"
- - "/img/DBF2018_header1sm.jpg" : ""
- - "/img/DBF2018_header3sm.jpg" : ""
+ - "/img/20180601_181252.JPG" : ""
+ - "/img/20180601_181330.JPG" : ""
+ - "/img/20180601_181338.JPG" : ""
+ - "/img/20180601_181354.JPG" : ""
+ - "/img/20180601_181406.JPG" : ""
+ - "/img/20180609_122424.JPG" : ""
+ - "/img/20180609_133411.JPG" : ""
+ - "/img/20180609_174405.JPG" : ""
+ - "/img/20190606_124844.JPG" : ""
+ - "/img/20190606_125309.JPG" : ""
+ - "/img/20190606_140643.JPG" : ""
+ - "/img/20190606_163630.JPG" : ""
+ - "/img/20190606_164732.JPG" : ""
+ - "/img/20190606_191151.JPG" : ""
+ -  "/img/20190607_123504.JPG" : ""
+ - "/img/20190607_123627.JPG" : ""
+ - "/img/20190607_124616.JPG" : ""
+ - "/img/20190607_141313.JPG" : ""
 ---
-
 
 
 [Get tickets!](https://draigbeats2022.brownpapertickets.com)
