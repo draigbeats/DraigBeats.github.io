@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Draig Beats 2022
+title: "Draig Beats 2022"
 
 # Short description of your site
-description: A fundraiser festival at Treborth Botanic Garden to bring Dr Sophie home!
+description: "A fundraiser festival at Treborth Botanic Garden to bring Dr Sophie home!"
 
 # Blogs not on start page and store udner different URL
 paginate_path: "/blog/page:num/"
