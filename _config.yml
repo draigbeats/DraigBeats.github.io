@@ -26,13 +26,14 @@ paginate_path: "/blog/page:num/"
 # List of links in the navigation bar
 navbar-links:
 #Artists
-  Artists: "artists"
+#   Artists: "artists"
 #Stallholders
 #  Stallholders: "stallholders"
 #Activities
-  Activities: "activities"   
+#   Activities: "activities" 
+   Volunteering: "join" 
 # Tickets
-  Tickets: "https://draigbeats2019.brownpapertickets.com/"
+  Tickets: "https://draigbeats2022.brownpapertickets.com/"
   
 #  Line Up: ""
 #  2018: 
