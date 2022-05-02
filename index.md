@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to Draig Beats!
+title: Draig Beats 2022
 subtitle: 
 use-site-title: true
 bigimg:
