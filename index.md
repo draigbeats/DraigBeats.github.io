@@ -27,6 +27,8 @@ bigimg:
 
 [Get tickets!](https://draigbeats2022.brownpapertickets.com)
 
+![LineUp](/img/Draig%20Beats%202022%20Lineup.jpeg)
+
 
 ## Time to Breath!
 
