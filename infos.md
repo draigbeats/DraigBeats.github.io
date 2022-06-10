@@ -11,7 +11,7 @@ bigimg:
 
 ## The Site Map
 
-![The site map](/img/DraigBeatsSiteMap.jpg)
+![The site map](/img/Draig%20Beats%202022%20Site%20Map.png)
 
 ## How to get there?
 
