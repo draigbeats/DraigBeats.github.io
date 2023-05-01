@@ -27,8 +27,7 @@ bigimg:
 
 [TICKETS!](https://draigbeats2023.eventbrite.com)
 
-![Poster](/img/DRAIG%20BEATS%20A3%2023%20WEB.jpeg)
-
+![Poster](/img/DRAIG%20BEATS%20A3%2023%20WEB.jpg)
 
 **A family friendly, day long festival, to build bridges between the University and local Communities and to help Dr Sophie.**
 
