@@ -56,8 +56,6 @@ No Concessions
 ## FAQs
 For more information on access and a sitemap goto our [information page](/infos)
 
-![Poster](/img/DRAIG_BEATS_A3_22_small.jpg)
-
 ## The small print
 
 As access to the Garden is limited we're asking people to come by public transport if possible, but we will also be operating a free park and ride scheme from Bangor Football Club and bus pick up from Bangor Uinversity Brambell Building (NO PARKING!) in walking distance from the train station. Access by car will be limited to Blue Badge holders only, please let us know in advance and we will be able to accommodate you on site.
