@@ -30,7 +30,7 @@ bigimg:
 **Without volunteers this festival wouldn't be possible..**
 
 Free ticket anyone? We need volunteers on the day, and to set things up too.
-Sign up here: [https://volunteersignup.org/MYBJ7](https://volunteersignup.org/MYBJ7)
+Sign up here: [https://volunteersignup.org/EKABA](https://volunteersignup.org/EKABA)
 
 **Want updates?**
 
