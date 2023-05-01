@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Draig Beats 2022
+title: Draig Beats 2023
 subtitle: 
 use-site-title: true
 bigimg:
@@ -25,29 +25,25 @@ bigimg:
 ---
 
 
-[Get tickets!](https://draigbeats2022.brownpapertickets.com)
+[TICKETS!](https://draigbeats2023.eventbrite.com)
 
-![LineUp](/img/Draig%20Beats%202022%20Lineup.jpeg)
+![Poster](/img/DRAIG%20BEATS%20A3%2023%20WEB.jpeg)
 
 
-## Time to Breath!
+**A family friendly, day long festival, to build bridges between the University and local Communities and to help Dr Sophie.**
 
-### With difficult years gone past, let us come together again!
+Draig Beats will return on Saturday the 10th of June 2023 to Treborth Botanic Garden!
 
-**Our mission remains the same: raising money for our dear friend and colleague Dr Sophie Williams. Like in 2019 we will share a portion with Treborth Botanic Garden as a thank you for their deep support, without which there wouldn’t be a festival. It is widely known that Sophie has felt and still feels so passionately about Treborth Botanic Garden.**
+It is a family friendly, fund raising event, and will contribute to building bridges between the University and local communities. There will be on offer plenty of live music, talks, workshops, food & drink plus, showcasing local initiatives and lots of activities to keep the kids busy!
 
-So after a two year break, Draig Beats returns on **Saturday the 11th of June 2022** from **10am until 9pm** to Treborth Botanic Garden! It is a family friendly, fund raising event, and will contribute to building bridges between local communities working towards a positive post COP26 world. It will offer plenty of live music, talks, workshops, food & drink plus, will showcase local initiatives and will have lots of activities to keep the kids busy!
+We are unpaid volunteers and are trying to keep ticket prices to a minimum but still aim to raise as much money as possible to help support our inspiring friend and colleague Dr Sophie Williams, a former lecturer in plant conservation at Bangor University. Unfortunately she still lives in a care home following years of stays on intensive care after contracting Japanese Encephalitis. The Pandemic didn't help to move her back in to her community and we're still fighting for her to live a life among her friends and colleagues.
 
-After this long break we are also regrouping with a new team and have decided to focus a little bit more on wellbeing aspects and a little bit less on music.
+Please join us for a great day out and help us raise as much money as possible!
 
-We are unpaid volunteers and are trying to keep ticket prices to a minimum but still aim to raise as much money as possible to help support our inspiring friend and colleague Dr Sophie Williams, a former lecturer in plant conservation, who unfortunately lives in a care home following years of intensive care after contracting Japanese Encephalitis. We are still trying to get her home but the pandemic has made our efforts much more challenging..., no reason to give though!
-
-Whilst building bridges we will raise funds to help Sophie cover the legal cost for an expensive *Judicial Review*, so that BCUHB (North Wales NHS) can look favourably at Sophie's case again as they have stopped communicating with Sophie's solicitor two years ago. As a consequence she sadly faces a life in a care home permanently, 70 miles away from her friends, her community, and her colleagues at Bangor University.
-
-All profits raised will support this cause, and some will also be shared with the volunteering group Friends of Treborth Botanic Garden, so please join us for a great day out and help us raise as much money as possible!
 
 ### [TICKET PRICES](https://draigbeats2022.brownpapertickets.com)
 
+Ticket prices remain unchanged, 5 years on!
 
 |           | **Adult**        | **Child 12-17** | **Family Ticket**|
 |-----------|:----------------:|:---------------:|:----------------:|
