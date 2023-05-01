@@ -14,7 +14,7 @@
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Draig Beats 2022
+title: Draig Beats 2023
 
 # Short description of your site
 description: A fundraiser festival at Treborth Botanic Garden to bring Dr Sophie home!
@@ -26,8 +26,8 @@ description: A fundraiser festival at Treborth Botanic Garden to bring Dr Sophie
 # List of links in the navigation bar
 navbar-links:
   Volunteering: "join" 
-  Tickets: "https://draigbeats2022.brownpapertickets.com/"
-  Volunteering: "https://volunteersignup.org/MYBJ7"
+  Tickets: "https://draigbeats2023.eventbrite.com/"
+  Volunteering: "https://volunteersignup.org/EKABA"
   Info: "infos"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
