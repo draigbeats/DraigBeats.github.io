@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Draig Beats 2023
+title: Draig Beats 2024
 subtitle: 
 use-site-title: true
 bigimg:
@@ -25,13 +25,12 @@ bigimg:
 ---
 
 
-[TICKETS!](https://draigbeats2023.eventbrite.com)
+[TICKETS!](https://draigbeats2024.eventbrite.co.uk/)
 
-![Poster](/img/DRAIG_BEATS_A3_23_LINEUP.jpg)
 
 **A family friendly, day long festival, to build bridges between the University and local Communities and to help Dr Sophie.**
 
-Draig Beats will return on Saturday the 10th of June 2023 to Treborth Botanic Garden!
+Draig Beats will return on Saturday the 8th of June 2024 to Treborth Botanic Garden!
 
 It is a family friendly, fund raising event, and will contribute to building bridges between the University and local communities. There will be on offer plenty of live music, talks, workshops, food & drink plus, showcasing local initiatives and lots of activities to keep the kids busy!
 
@@ -40,7 +39,7 @@ We are unpaid volunteers and are trying to keep ticket prices to a minimum but s
 Please join us for a great day out and help us raise as much money as possible!
 
 
-### [TICKET PRICES](https://draigbeats2022.brownpapertickets.com)
+### [TICKET PRICES](https://draigbeats2024.eventbrite.co.uk/)
 
 Ticket prices remain unchanged, 5 years on!
 
