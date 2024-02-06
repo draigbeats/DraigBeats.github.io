@@ -30,7 +30,7 @@ bigimg:
 
 **A family friendly, day long festival, to build bridges between the University and local Communities and to help Dr Sophie.**
 
-Draig Beats will return on Saturday the 8th of June 2024 to Treborth Botanic Garden!
+Draig Beats will return on Saturday the **8th of June 2024** to Treborth Botanic Garden!
 
 It is a family friendly, fund raising event, and will contribute to building bridges between the University and local communities. There will be on offer plenty of live music, talks, workshops, food & drink plus, showcasing local initiatives and lots of activities to keep the kids busy!
 
